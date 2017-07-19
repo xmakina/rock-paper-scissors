@@ -1,6 +1,6 @@
 {
   "author": "Alex Addams",
-  "name": "rock-paper-scissors",
+  "name": "rpslib",
   "description": "Library form of Rock Paper Scissors",
   "version": "1.0.0",
   "repository": {
