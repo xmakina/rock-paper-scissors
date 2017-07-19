@@ -1,22 +1,18 @@
 {
+  "author": "Alex Addams",
   "name": "rock-paper-scissors",
+  "description": "Library form of Rock Paper Scissors",
   "version": "1.0.0",
-  "description": "A library implementation of RPS",
-  "main": "rock-paper-scissors.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xmakina/rock-paper-scissors.git"
+    "url": "https://github.com/xmakina/rock-paper-scissors.git"
   },
-  "keywords": [
-    "game"
-  ],
-  "author": "xmakina",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/xmakina/rock-paper-scissors/issues"
+  "main": "./lib/rock-paper-scissors",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
   },
-  "homepage": "https://github.com/xmakina/rock-paper-scissors#readme"
+  "license": "MIT"
 }
